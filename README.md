@@ -12,7 +12,7 @@ python 1.py
 C++ (using gcc compiler)
 ```
 g++ -o 1 1.cpp
-.\a.exe
+.\1.exe
 ```
 ## License
 You can do with the code whatever you like
